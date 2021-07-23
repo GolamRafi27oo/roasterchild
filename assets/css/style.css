@@ -537,3 +537,11 @@ section {
 .foot{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.headerline{
+  background-color: rgb(192, 21, 21);
+  height: 2px;
+  border-radius: 5px;
+}
+.headerline:hover{
+  background-color: gray;
+}
