@@ -545,3 +545,10 @@ section {
 .headerline:hover{
   background-color: gray;
 }
+/*social media on head*/
+.my-tube:hover{
+  color: red;
+}
+.my-insta:hover{
+  color: #bc2a8d;
+}
